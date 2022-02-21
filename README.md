@@ -9,15 +9,14 @@ Se référer à la documentation Postman du projet disponible [en cliquant ici](
 
 - Télécharger l'application via GitHub
 ```bash
-git clone 
+git clone https://github.com/Nathroma/EpicEvents
 ```
 
-- Créer un environnement virtuel et l'activer :
+- Créer un environnement virtuel et l'activer : (Sous windows)
 ```cmd
 python -m venv env
 env\Scripts\activate
 ```
-(Sous windows)
 
 - Une fois dans l'environnment virtuel faites :
 ```cmd
